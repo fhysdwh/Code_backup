@@ -1,0 +1,23 @@
+{
+    "name": "fhy",
+    "age": 34,
+    "qq": 77025494,
+    "friends": [
+        "\u5f20\u4e09",
+        "\u674e\u56db"
+    ],
+    "cars": [
+        {
+            "brand": "BYD",
+            "max_speed": 180
+        },
+        {
+            "brand": "Audi",
+            "max_speed": 280
+        },
+        {
+            "brand": "Benz",
+            "max_speed": 320
+        }
+    ]
+}
